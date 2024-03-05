@@ -2,9 +2,6 @@
 For reference, activities were utilized from previous classes to help navigate me through this data set 
 
 
-
-
-Pre-processing:
 - Data cleaning and preparation involved organizing the raw data.
 - The dataset encompassed various financial attributes, such as loan size, interest rate, borrower income, debt-to-income ratio, number of accounts, derogatory marks, and total debt.
 
