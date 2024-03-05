@@ -5,11 +5,10 @@ For reference, activities were utilized from previous classes to help navigate m
 - Data cleaning and preparation involved organizing the raw data.
 - The dataset encompassed various financial attributes, such as loan size, interest rate, borrower income, debt-to-income ratio, number of accounts, derogatory marks, and total debt.
 
-Training:
+
 - Utilized Logistic Regression, a supervised learning classification model, to forecast the probability of loan creditworthiness.
 - The model was trained to distinguish between healthy loans (0) and high-risk loans (1).
 
-Validation and Evaluation:
 Machine Learning Model 1:
 - Accuracy revealed 18679 true positive and 558 true negative outcomes.
 - Precision indicated better performance in predicting healthy loans (precision 1) compared to high-risk loans (precision 0.87).
